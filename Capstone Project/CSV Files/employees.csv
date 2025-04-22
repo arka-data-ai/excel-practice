@@ -1,0 +1,11 @@
+EmployeeID,Employee Name,Title,Employee Age,BirthDate,HireDate,Address,City,PostalCode,Country
+1,Ms. Nancy Davolio,Sales Representative,75,08-12-1948,01-05-1992,"507 - 20th Ave. E.
+Apt. 2A",Seattle,98122,USA
+2,Dr. Andrew Fuller,"Vice President, Sales",72,19-02-1952,14-08-1992,908 W. Capital Way,Tacoma,98401,USA
+3,Ms. Janet Leverling,Sales Representative,60,30-08-1963,01-04-1992,722 Moss Bay Blvd.,Kirkland,98033,USA
+4,Mrs. Margaret Peacock,Sales Representative,86,19-09-1937,03-05-1993,4110 Old Redmond Rd.,Redmond,98052,USA
+5,Mr. Steven Buchanan,Sales Manager,69,04-03-1955,17-10-1993,14 Garrett Hill,London,SW1 8JR,UK
+6,Mr. Michael Suyama,Sales Representative,60,02-07-1963,17-10-1993,Coventry House Miner Rd.,London,EC2 7JR,UK
+7,Mr. Robert King,Sales Representative,63,29-05-1960,02-01-1994,Edgeham Hollow   Winchester Way,London,RG1 9SP,UK
+8,Ms. Laura Callahan,Inside Sales Coordinator,66,09-01-1958,05-03-1994,4726 - 11th Ave. N.E.,Seattle,98105,USA
+9,Ms. Anne Dodsworth,Sales Representative,58,27-01-1966,15-11-1994,7 Houndstooth Rd.,London,WG2 7LT,UK
