@@ -1,0 +1,25 @@
+,Name,Sport,Country,Medals Won
+,Michael Phelps,Swimming,USA,28
+,Usain Bolt,Athletics,Jamaica,8
+,Simone Biles,Gymnastics,USA,19
+,Katarina Witt,Figure Skating,Germany,2
+,Nadia Comaneci,Gymnastics,Romania,5
+,Carl Lewis,Athletics,USA,9
+,Larisa Latynina,Gymnastics,USSR,18
+,Mark Spitz,Swimming,USA,11
+,Sonja Henie,Figure Skating,Norway,3
+,Yelena Isinbayeva,Athletics,Russia,15
+,,,,
+,Questions,,,
+,,,,
+1,What is the total number of medals won by athletes from USA?,,,
+,,Result:,,
+,Enter function here:,67,,
+,,,,
+2,What is the total number of medals won by figure skaters?,,,
+,,Result:,,
+,Enter function here:,5,,
+,,,,
+3,What is the total number of medals won by both USA and Jamaica?,,,
+,,Result:,,
+,Enter function here:,0,28,67

@@ -1,0 +1,19 @@
+,Data,,,,,,,,,,
+,Employee ID,101,102,103,104,105,106,107,108,109,110
+,Employee Name,John Doe,Jane Smith,Bob Johnson,Sarah Lee,Tom Davis,Emily Brown,Michael Wilson,Jessica Davis,David Martin,Rachel Green
+,Department,HR,Marketing,IT,Finance,HR,Marketing,IT,Finance,HR,Marketing
+,Salary,50000,55000,60000,65000,70000,75000,80000,85000,90000,95000
+,Bonus,2000,2500,3000,3500,4000,4500,5000,5500,6000,6500
+,Total Pay,52000,57500,63000,685000,74000,79500,85000,90500,96000,101500
+,,,,,,,,,,,
+1,What is the department of employee with ID 102?,,,,,,,,,,
+,,,,,,,,,,,
+,Enter function here:,,,Marketing,,,,,,,
+,,,,,,,,,,,
+2,What is the salary of employee with ID 105?,,,,,,,,,,
+,,,,,,,,,,,
+,Enter function here:,,,70000,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+3,What is the total pay of employee with ID 107?,,,,,,,,,,
+,Enter function here:,,,85000,,,,,,,
